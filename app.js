@@ -1,0 +1,1 @@
+console.log('NU, VAI TOMANO 2.0')
